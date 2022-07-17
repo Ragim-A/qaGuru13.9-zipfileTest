@@ -1,0 +1,11 @@
+{
+  "Brand":"Renault",
+  "Model":"Logan",
+  "Price":14,
+  "LocalAssembled":true,
+  "Transmission":{
+    "GearboxAT":false,
+    "4wd": false
+  }
+
+}
